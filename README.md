@@ -198,8 +198,7 @@ print(le.inverse_transform(x_single_prediction))
 ### Confusion Matrix:
 <img width="903" height="217" alt="image" src="https://github.com/user-attachments/assets/61d2cd0b-ba74-490f-b53e-f6dc30c83731" />
 
-### New Sample Data Prediction:
-<img width="1080" height="443" alt="image" src="https://github.com/user-attachments/assets/cc4226be-ec11-4432-927f-777d8c9ed1ad" />
+
 
 
 ## RESULT:
